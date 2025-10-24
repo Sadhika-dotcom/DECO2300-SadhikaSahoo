@@ -1,0 +1,4 @@
+repository "P3kindle/P3kindle@16768296874508@cloud"
+  path "/"
+    br "/main"
+    co "/main"
