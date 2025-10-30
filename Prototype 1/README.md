@@ -1,5 +1,3 @@
-Prototype READMEs - XR Kindle Redesign
-
 # Prototype 1: Horizontal Prototype - Spatial Navigation & Book Selection
 
 ## Overview
