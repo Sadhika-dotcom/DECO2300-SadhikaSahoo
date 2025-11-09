@@ -1,6 +1,6 @@
 # Test Projects
 
-This folder contains weekly activities, experiments, and learning projects.
+This folder contains weekly activities, experiments, and learning projects. Currently all project developed into main projects, this test project folder will contain future experimentations.
 
 ## Contents
 - **WeeklyActivities/**: Unity tutorials and exercises from class
